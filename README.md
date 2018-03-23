@@ -1,6 +1,8 @@
 # Buffer2S3 - WIP
 Neovim plugin for interacting with S3.
 
+![logo](https://i.imgur.com/EzVhDLL.png)
+
 ### Features
 
 * List buckets in S3
